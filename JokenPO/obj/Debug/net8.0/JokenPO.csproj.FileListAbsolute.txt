@@ -1,0 +1,14 @@
+/Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/JokenPO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/JokenPO.AssemblyInfoInputs.cache
+/Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/JokenPO.AssemblyInfo.cs
+/Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/JokenPO.csproj.CoreCompileInputs.cache
+/Users/david/Desktop/JokenPO/JokenPO/bin/Debug/net8.0/JokenPO
+/Users/david/Desktop/JokenPO/JokenPO/bin/Debug/net8.0/JokenPO.deps.json
+/Users/david/Desktop/JokenPO/JokenPO/bin/Debug/net8.0/JokenPO.runtimeconfig.json
+/Users/david/Desktop/JokenPO/JokenPO/bin/Debug/net8.0/JokenPO.dll
+/Users/david/Desktop/JokenPO/JokenPO/bin/Debug/net8.0/JokenPO.pdb
+/Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/JokenPO.dll
+/Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/refint/JokenPO.dll
+/Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/JokenPO.pdb
+/Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/JokenPO.genruntimeconfig.cache
+/Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/ref/JokenPO.dll
