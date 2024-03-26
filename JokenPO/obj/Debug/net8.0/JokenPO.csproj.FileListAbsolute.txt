@@ -12,3 +12,4 @@
 /Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/JokenPO.pdb
 /Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/JokenPO.genruntimeconfig.cache
 /Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/ref/JokenPO.dll
+/Users/david/Desktop/JokenPO/JokenPO/obj/Debug/net8.0/JokenPO.sourcelink.json

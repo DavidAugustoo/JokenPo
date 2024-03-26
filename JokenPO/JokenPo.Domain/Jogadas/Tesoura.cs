@@ -6,7 +6,7 @@ namespace JokenPo.Domain.Jogadas
     {
         public override Resultado Competir(Jogada outraJogada)
         {
-            if (outraJogada is Papel)
+            if (outraJogada is Papel || outraJogada is Lagarto)
                 return Resultado.Vitoria;
             else if (outraJogada is Tesoura)
                 return Resultado.Empate;

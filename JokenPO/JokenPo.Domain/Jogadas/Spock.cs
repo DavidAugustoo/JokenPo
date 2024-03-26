@@ -2,13 +2,13 @@ using JokenPo.Core;
 
 namespace JokenPo.Domain.Jogadas
 {
-    public class Papel : Jogada
+    public class Spock : Jogada
     {
         public override Resultado Competir(Jogada outraJogada)
         {
-            if (outraJogada is Pedra || outraJogada is Spock)
+            if (outraJogada is Tesoura || outraJogada is Pedra)
                 return Resultado.Vitoria;
-            else if (outraJogada is Papel)
+            else if (outraJogada is Spock)
                 return Resultado.Empate;
             else
                 return Resultado.Derrota;
